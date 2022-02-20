@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d54bb5cb-4c3f-4d5c-ba6a-0f8a5e4366ac": {
+      "ProjectGuid": "d54bb5cb-4c3f-4d5c-ba6a-0f8a5e4366ac",
+      "DisplayName": "Inlamningsuppgift",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
